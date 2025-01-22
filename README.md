@@ -1,4 +1,4 @@
-![logo](https://github.com/shashank-23-ai/shashank-23-ai/blob/main/freepik-3d-modern-tech-company-halfpage-banner-20250122190133Ohee.jpeg)
+![logo](https://github.com/shashank-23-ai/shashank-23-ai/blob/main/freepik-3d-modern-tech-company-halfpage-banner-2025012219120842Vu.jpeg)
 <h1 align="center">Hi 👋, I'm Shashank Tiwari</h1>
 <h3 align="center">Empowering Ideas with AI: Exploring the Boundaries of Machine Intelligence</h3>
 
